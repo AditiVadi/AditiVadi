@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AditiVadi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning MERN Stack
 - 📫 vadiaditi@gmail.com
 
 <!---
